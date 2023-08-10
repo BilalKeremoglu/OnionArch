@@ -1,0 +1,15 @@
+D:\playground\OnionArch\ProductApp\src\core\Application\bin\Debug\net5.0\Application.deps.json
+D:\playground\OnionArch\ProductApp\src\core\Application\bin\Debug\net5.0\Application.dll
+D:\playground\OnionArch\ProductApp\src\core\Application\bin\Debug\net5.0\Application.pdb
+D:\playground\OnionArch\ProductApp\src\core\Application\bin\Debug\net5.0\ProductApp.Domain.dll
+D:\playground\OnionArch\ProductApp\src\core\Application\bin\Debug\net5.0\ProductApp.Domain.pdb
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.dll
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\refint\Application.dll
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\Application.pdb
+D:\playground\OnionArch\ProductApp\src\core\Application\obj\Debug\net5.0\ref\Application.dll
