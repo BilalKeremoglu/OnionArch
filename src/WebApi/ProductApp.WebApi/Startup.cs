@@ -1,3 +1,4 @@
+using Application;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +29,7 @@ namespace ProductApp.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddPersistanceServices();
+            services.AddApplicationRegistration();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

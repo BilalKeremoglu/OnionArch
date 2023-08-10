@@ -42,3 +42,7 @@ D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0
 D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\ProductApp.Persistance.dll
 D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\ProductApp.Persistance.pdb
+D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\MediatR.dll
+D:\playground\OnionArch\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
